@@ -15,7 +15,7 @@
     <h3 align="center">Statistics</h3>
     <br>
     <img width="70%" src="https://streak-stats.demolab.com/?user=felipepmoraes&theme=algolia" alt="Dev.Felipe_Statistics"/>
-    <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=felipepmoraes&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dev.Felipe_Statistics"/>  
+    <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=felipepmoraes&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dev.Felipe_Statistics"/>  
     <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felipepmoraes&show_icons=true&locale=en&theme=algolia" alt="Dev.Felipe_Statistics"/>
 </div>
 
@@ -52,7 +52,7 @@
 <div align="center"> 
     <h3 align="center">Connect with me:</h3>
     <br>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon linkedin"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="icon vitrinedev"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="icon portifolio"></a>
+    <a href="https://www.linkedin.com/in/felipepmoraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon linkedin"></a>
+    <a href="https://cursos.alura.com.br/vitrinedev/felipepmoraes" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="icon vitrinedev"></a>
+    <a href="https://github.com/felipepmoraes" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="icon portifolio"></a>
  </div>
