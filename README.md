@@ -8,15 +8,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04b2ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Felipe+Moraes;I'm+31+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipepmoraes&bg_color=0d1117&color=00aeff&line=00aeff&point=050f2c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
 <div align="center" width="100%">
     <h3 align="center">Statistics</h3>
     <br>
-    <img width="70%" src="https://streak-stats.demolab.com/?user=felipepmoraes&theme=algolia" alt="Dev.Felipe_Statistics"/>
-    <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=felipepmoraes&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dev.Felipe_Statistics"/>  
-    <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felipepmoraes&show_icons=true&locale=en&theme=algolia" alt="Dev.Felipe_Statistics"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipepmoraes&show_icons=true&count_private=true&hide_border=true&title_color=00aeff&icon_color=00aeff&bg_color=0d1117&theme=algolia" alt="Felipe Moraes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepmoraes&layout=compact&hide_border=true&title_color=00aeff&text_color=00aeff&bg_color=0d1117" alt="Felipe Moraes github stats"/>
 </div>
 
 <br>
@@ -24,7 +24,9 @@
 <div align="center" width="100%">
     <h3 align="center">Achievements</h3>
     <br>
-    <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipepmoraes" alt="Dev.Felipe"/></a></p>
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=felipepmoraes&theme=transparent&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+    </a></p>
 </div>
 
 <br>
