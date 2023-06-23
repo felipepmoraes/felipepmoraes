@@ -32,7 +32,7 @@
 <br>
 
 <div align="center" width="100%">
-    <h3 align="center">Languages</h3>
+    <h3 align="center">Studying in this moment</h3>
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
