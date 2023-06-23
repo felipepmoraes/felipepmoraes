@@ -15,7 +15,7 @@
 <div align="center" width="100%">
     <h3 align="center">Statistics</h3>
     <br>
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipepmoraes&show_icons=true&count_private=true&hide_border=true&title_color=00aeff&icon_color=00aeff&bg_color=0d1117&theme=algolia" alt="Felipe Moraes github stats" /> 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipepmoraes&show_icons=true&count_private=true&hide_border=true&title_color=00aeff&icon_color=00aeff&bg_color=Z&theme=algolia" alt="Felipe Moraes github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepmoraes&layout=compact&hide_border=true&title_color=00aeff&text_color=00aeff&bg_color=0d1117" alt="Felipe Moraes github stats"/>
 </div>
 
