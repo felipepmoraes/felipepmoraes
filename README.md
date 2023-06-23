@@ -8,7 +8,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04b2ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Felipe+Moraes;I'm+31+years+old;I'm+from+Brazil;Be+Welcome!+:%29)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipepmoraes&bg_color=0d1117&color=00aeff&line=00aeff&point=00ffc0&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipepmoraes&bg_color=0d1117&color=00aeff&line=00aeff&point=00ffc0&area=true&hide_border=true)
 
 <br>
 
